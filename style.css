@@ -78,7 +78,7 @@
 }
 
 .course .row .card-body {
-  height: 10em;
+  height: auto;
 }
 
 .carousel {
